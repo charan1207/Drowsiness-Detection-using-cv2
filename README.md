@@ -54,7 +54,8 @@ The application displays the webcam feed with facial landmark detection in real-
 2. A window will open showing the webcam feed with facial landmark detection.
 3. If the system detects drowsiness (i.e., closed eyes for an extended period), it will trigger an alarm sound.
 
-https://github.com/charan1207/Drowsiness-Detection-using-cv2/blob/main/images.jpeg
+![image](https://github.com/charan1207/Drowsiness-Detection-using-cv2/assets/28255223/55f096fe-a40b-456b-a024-e8bb8796c7ec)
+
 
 ## Customization
 - You can adjust the threshold value (`thres`) in the script to set the sensitivity of drowsiness detection.
