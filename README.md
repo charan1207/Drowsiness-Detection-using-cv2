@@ -46,6 +46,9 @@ By computing the distance between specific pairs of facial landmarks associated 
 The average distance between relevant facial landmarks is compared to a threshold value (thres). If the average distance falls below this threshold for a certain duration, it indicates drowsiness.
 # Alert Mechanism: 
 When drowsiness is detected, an alarm sound is played using Pygame to alert the person.
+
+![image](https://github.com/charan1207/Drowsiness-Detection-using-cv2/assets/28255223/b580f484-c569-4b0f-8cf8-59535f2b1715)
+
 # User Interface:
 The application displays the webcam feed with facial landmark detection in real-time using OpenCV.
 
